@@ -1,0 +1,3 @@
+[submodule "backEnd"]
+	path = backEnd
+	url = git@github.com:marx-w/1121-midterm_backEnd.git
